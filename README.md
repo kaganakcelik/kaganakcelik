@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Kagan Akcelik
 
-cs + business major at UT Austin
+cs + business major at UT Austin \
 contact me @ akcelikkagan [at] gmail [dot] com
 
 <!--
