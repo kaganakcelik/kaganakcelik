@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Kagan Akcelik
 
-Currently a cs + business major at UT Austin
+cs + business major at UT Austin
+contact me @ akcelikkagan [at] gmail [dot] com
 
 <!--
 **kaganakcelik/kaganakcelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
