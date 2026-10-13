@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Kagan Akcelik
 
 cs + business major at UT Austin \
+currently building [bemoots.com](https://www.bemoots.com/>ref=linkedin) \
 contact me: akcelikkagan [at] gmail [dot] com
 
 <!--
